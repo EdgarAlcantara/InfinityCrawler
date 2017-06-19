@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Infinity Crawler</string>
+    <string name="vida">Vida:</string>
+    <string name="bajarvolumen">Bajar volumen</string>
+    <string name="subirvolumen">Subir volumen</string>
+    <string name="dano">Daño producido: </string>
+    <string name="recibio">  ha recibido </string>
+    <string name="dedano"> de daño</string>
+    <string name="subirnivelmago">Eknido ha sudido nivel, su vida ha aumentado</string>
+    <string name="subirnivelbarbaro">Wrehuf ha suvido nivel, su vida ha aumentado</string>
+    <string name="subirnivelguerrero">Padd ha subido nivel, su vida ha aumentado</string>
+    <string name="vidagrupo">Vida:</string>
+    <string name="nombregrupo">Nombre:</string>
+    <string name="nivelgrupo">Nivel:</string>
+    <string name="credi">Créditos</string>
+    <string name="nuevapartida">Nueva partida</string>
+    <string name="cargarpartida">Cargar partida</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="guardarpartida">Guardar partida</string>
+    <string name="volver">Volver</string>
+    <string name="salirMenuInicial">Salir del Juego</string>
+    <string name="salir">Salir</string>
+    <string name="ataqueguerrero">Ataque guerrero</string>
+    <string name="ataquemago">Ataque mago</string>
+    <string name="ataquebarbaro">Ataque bárbaro</string>
+    <string name="textoayuda">\tLos controles en Infinity Crawler se componen de:
+                                \n1)Botones direccionales en el lado derecho de la pantalla.
+                                \n2)Un botón de menú en la parte superior derecha.\n
+                                    \t\t2.1)Botón de guardado.\n
+                                    \t\t2.2)Botón de cargar.\n
+                                    \t\t2.3)Botón de salir (vuelve al menú inicial).\n
+                                    \t\t2.4)Botón volver (vuelve al momento en el que se pulsó \n\t\tel botón).\n
+                                3)Botón de grupo a la izquierda del botón de menú (sirve para\n ver el estado del grupo).
+                                    </string>
+    <string name="textoayuda2">
+        4)Durante las batallas:
+        \n\t\t4.1)Los turnos son consecutivos:
+        \n\t\t-Primero ataca el guerrero, despues el mago y luego el bárbaro
+        \n\t\t4.2)Cuando sea el turno de alguno de los personajes su botón de \n\t\tacción
+        estará rodeado por un rectángulo rojo.\n
+        \t\t4.3)Si ves que no puedes ganar el combate prueba a retirarte\n
+        \t\tpulsando el botón de arriba a la derecha\n
+        \t\t4.4)En la parte superior izquierda aparecerá el informe de batalla.\n
+        5)Tras los combates podrás curarte en el menú de grupo pulsando\nel botón con la estrella en su interior, pero
+        recuerda, <u>las curas \ntienen usos limitados (10 USOS).</u>
+
+    </string>
+    <string name="creditos">
+        \t\t\t\t\t\t\t\t\t\t\t\t\tdiseño:\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEdgar Alcántara Fernández\n
+\t\t\t\t\t\t\t\t\t\t\t\t\tProgramación:\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tEdgar Alcántara Fernández\n
+\t\t\t\t\t\t\t\t\t\t\t\t\tArte:\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tGeorge Douros (fuente de letra)\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tLanea Zimmerman\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tPauR\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tBunch\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tdaneeklu\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tWestbeam\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tKenney\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tTrent Gamblin\n
+\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJAP\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\tMúsica:\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tIwan Gabovitch\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tbart\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\tAgradecimientos:\n
+        \t\t\t\t\t\t\t\t\t\t\t\t\t\t\tJotaauvei
+</string>
+    <string name="textoinicio">
+        \tUn grupo de milicianos (un guerrero, un mago y un\n bárbaro) se encuentran sin saber cómo en una\n mazmorra, que sin que ellos lo sospechen, está\n\tviva. Lo que tampoco saben es que estarán vagando\n hasta que el jefe de la mazmorra se canse de\n jugar con ellos.
+    </string>
+    <string name="ultimotexto">
+        El jefe de la mazmorra ya se ha entretenido \nsuficiente y te llama a su presencia.</string>
+<string name="textofinal">No siempre las historias terminan bien,\n y de ninguna forma tiene que ser así.\n Esta es una de esas historias.</string>
+<string name="textofinal2">Por suerte, a nuestros héroes les ha ido bien.\nEsperemos que en sus próximas aventuras tengan\n tanta suerte.\nPor cierto...Felicidades, has terminado el juego.</string>
+</resources>

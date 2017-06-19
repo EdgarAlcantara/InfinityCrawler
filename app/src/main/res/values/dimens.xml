@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="distancia">200dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="tamanoletra">15dp</dimen>
+    <dimen name="tamaniletratitulo">30dp</dimen>
+    <dimen name="tamanoletracreditos">12dp</dimen>
+    <dimen name="tamanoletra2">10dp</dimen>
+    <dimen name="tamanoletra3">20dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="anchotexto">3dp</dimen>
+    <dimen name="altotexto">1dp</dimen>
+    <dimen name="posbtn1">2dp</dimen>
+    <dimen name="posicionpuerta1Escena1">300dp</dimen>
+    <dimen name="posicionpuerta2Escena1">3dp</dimen>
+    <dimen name="posicionpuerta2">60dp</dimen>
+    <dimen name="posicionpuerta22">330dp</dimen>
+    <dimen name="moderpersonaje">12dp</dimen>
+    <dimen name="rebote">12dp</dimen>
+    <dimen name="colision">45dp</dimen>
+    <dimen name="positu">1dp</dimen>
+</resources>
